@@ -11,6 +11,7 @@ El conjunto de datos titanic describe el estado de supervivencia y las caracter�
 El conjunto de datos es importante debido a que consolida la información relevante de las personas involucradas en el accidente, con lo cual podemos averiguar las relaciones existentes entre las diferentes variables. La presente práctica busca comprobar mediante los datos obtenidos, la influencia que tuvo en la supervivencia la edad, sexo y posición económica de los pasajeros a bordo, ratificando o desmintiendo las siguientes afirmaciones:
 
 •	Pasajeros de posiciones económicas altas tuvieron preferencias en el rescate.
+
 •	Mujeres y niños tuvieron prioridad para evacuar el barco.
 
 ## Caracteristicas del dataset
