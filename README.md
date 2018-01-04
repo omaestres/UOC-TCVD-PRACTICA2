@@ -21,10 +21,6 @@ El conjunto de datos es importante debido a que consolida la información releva
 
 Agradezco principalmente a la Profesora Mireia Calvo Gonzalez  quien nos brindó las pautas y herramientas para llevar a cabo esta actividad. 
 
-## Inspiración
-
-Este Dataset fue inspirado en el proyecto "Unite These Fuckers" (http://unitethesefuckers.com/), el cual hace un paralelo de las noticias de los principales diarios de habla inglesa, de tendencias liberales y conservadoras. La importancia de este dataset reside en los usuarios pueden comparar si existe algun tipo de sesgo o carga ideológica en la información cuando se abordan las mismas noticias. 
-
 ## Licencia
 ![](https://fsfe.org/graphics/gplv3-logo-red.png)
 
@@ -38,5 +34,7 @@ Desarrollador principal del proyecto
 ## Directorios y archivos
 
 titanic.csv   ->  Contiene el fichero del conjunto de datos en formato CSV separado por puntos y comas ","
+
+dataset_final.csv -> Archivo con el dataset transformado y normalizado
 
 code/ETL.R    ->  Ruta del Script escrito en R con el codigo fuente que aplica los procesos de analisis y ETL.
