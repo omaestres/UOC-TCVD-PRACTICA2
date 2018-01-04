@@ -19,7 +19,7 @@ El conjunto de datos es importante debido a que consolida la información releva
 
 ## Agradecimientos
 
-Agradezco principalmente a la Profesora Laia Subirats Maté quien nos brindó las pautas y herramientas para llevar a cabo esta actividad. Y tambien agradezco a las editoriales del EL MUNDO y EL PAIS quienes publican diariamente las noticias en sus portales Web. 
+Agradezco principalmente a la Profesora Mireia Calvo Gonzalez  quien nos brindó las pautas y herramientas para llevar a cabo esta actividad. 
 
 ## Inspiración
 
@@ -33,7 +33,6 @@ El Dataset y el codigo de este proyecto esta publicado con licencia Creative Com
 ## Equipo
 
 omaestres - Oscar Jovanni Maestre Sanmiguel
-
 Desarrollador principal del proyecto
 
 ## Directorios y archivos
