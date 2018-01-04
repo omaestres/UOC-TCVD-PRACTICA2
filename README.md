@@ -38,4 +38,4 @@ titanic.csv   ->  Contiene el fichero del conjunto de datos en formato CSV separ
 
 dataset_final.csv -> Archivo con el dataset transformado y normalizado
 
-code/ETL.R    ->  Ruta del Script escrito en R con el codigo fuente que aplica los procesos de analisis y ETL.
+codigo/script.R    ->  Ruta del Script escrito en R con el codigo fuente que aplica los procesos de analisis y ETL.
