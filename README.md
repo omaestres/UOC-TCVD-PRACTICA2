@@ -1,5 +1,7 @@
 # UOC-TCVD-PRACTICA2
 
+![](https://upload.wikimedia.org/wikipedia/commons/4/42/Titanic_Sn1912.jpg)
+
 Caso práctico en R donde se aplican las técnicas de tratamiento de datos (integración, transformación, limpieza y validación) apartir de un dataset.
 
 ## Descripción
