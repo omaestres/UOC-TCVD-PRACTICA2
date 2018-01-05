@@ -31,7 +31,7 @@ El Dataset y el código de este proyecto esta publicado con licencia GPLv3: Gene
 
 ## Equipo
 
-omaestres - Oscar Jovanni Maestre Sanmiguel
+omaestres - Oscar Jovanni Maestre Sanmiguel -
 Desarrollador principal del proyecto
 
 ## Directorios y archivos
